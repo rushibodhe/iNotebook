@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* Following has been added so that cursor becomes pointer when we hover over icons */
+i{
+  cursor:pointer;
+}
